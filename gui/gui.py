@@ -78,5 +78,3 @@ def start_gui():
     large_text_box.pack()
 
     root.mainloop()
-
-start_gui()

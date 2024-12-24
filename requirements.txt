@@ -1,0 +1,4 @@
+pytesseract
+Pillow
+customtkinter
+google-generativeai
