@@ -1,7 +1,7 @@
-# OCR-GPT Project
+## OCR-GPT Project
 
 ## Overview
-OCR-GPT is a Python-based application that combines Optical Character Recognition (OCR) and Generative AI to process text from screenshots and generate responses using a generative AI model.
+OCR-GPT is a Python-based application that combines Optical Character Recognition (OCR) and Generative AI to process text from screenshots and generate responses using a generative AI model (Google Gemini).
 
 ## Features
 - Take screenshots and extract text using Tesseract OCR.
@@ -96,3 +96,7 @@ OCR-GPT/
 
 
 ## Images
+
+![Screenshot 2024-12-24 185504](https://github.com/user-attachments/assets/c265421d-db6b-4556-95bc-acc50a3a7770)
+![Screenshot (6](https://github.com/user-attachments/assets/179c8926-9c49-4645-96e3-1efc2ad1a2b5)
+![Screenshot (7)](https://github.com/user-attachments/assets/adc1ad43-c8da-4e57-8b4b-96cdeafc5128)
