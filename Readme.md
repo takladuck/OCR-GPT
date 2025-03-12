@@ -98,6 +98,9 @@ OCR-GPT/
 - **Send to Gemini:** Sends the extracted text to the generative AI model and displays the response.
 - **Clear:** Clears the text fields.
 - **Copy:** Copies the extracted text to the clipboard.
+- **Background Running:** The application runs in the background with a system tray icon.
+- **Global Keyboard Shortcut:** Use `Ctrl+Shift+S` to take a screenshot from anywhere.
+
 
 
 ## Images
