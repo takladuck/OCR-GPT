@@ -8,6 +8,9 @@ OCR-GPT is a Python-based application that combines Optical Character Recognitio
 - Send extracted text to a generative AI model for content generation.
 - Display the generated content in a GUI.
 - Copy text to clipboard and clear text fields.
+- Background running with a system tray icon.
+- Global keyboard shortcut(`Ctrl+Shift+S`) to take screenshots.
+
 
 ## Project Structure
 ```
@@ -27,6 +30,8 @@ OCR-GPT/
 │
 ├── main.py
 ├── requirements.txt
+├──system_integration.py
+├──appicon.ico
 └── README.md
 ```
 
