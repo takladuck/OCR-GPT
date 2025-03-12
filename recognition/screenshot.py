@@ -71,5 +71,9 @@ class ScreenshotTool:
         self.top.quit()
         self.top.destroy()
 
+    def cancel_screenshot(self, event=None):
+        self.top.quit()
+        self.top.destroy()
+
     def run(self):
         self.top.mainloop()

@@ -1,4 +1,6 @@
-pytesseract
-Pillow
-customtkinter
+pytesseract~=0.3.13
+Pillow~=10.4.0
+customtkinter~=5.2.2
 google-generativeai
+pystray~=0.19.5
+keyboard~=0.13.5
